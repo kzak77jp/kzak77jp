@@ -12,6 +12,10 @@ Hokkaido, asahikawa
 ![img](assets/images/3D_data5.png)
 Hokkaido, asahikawa2
 
-https://youtu.be/auWd8m4tRhE
+![img](assets/images/3D_data6.png)
+
+![img](assets/images/3D_data7.png)
+
+[video](https://youtu.be/auWd8m4tRhE)
 
 [top](index.md)
