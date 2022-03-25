@@ -2,7 +2,7 @@
 markdown
 Syntax highlighted code block
 
-![img](assets/images/top_page.jpg)
+![img](assets/images/3D-data.png)
 
 # 土木屋の3Dモデリング作成
 
