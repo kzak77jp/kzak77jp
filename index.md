@@ -2,7 +2,7 @@
 markdown
 Syntax highlighted code block
 
-![img](https://images.wallpapersden.com/image/download/purple-sunrise-4k-vaporwave_bGplZmiUmZqaraWkpJRmbmdlrWZlbWU.jpg)
+![img](assets/images/top_page.jpg)
 
 # 土木屋の3Dモデリング作成
 
