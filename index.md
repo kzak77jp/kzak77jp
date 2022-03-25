@@ -16,4 +16,4 @@ Syntax highlighted code block
 
 mailto: kzakgt@gmail.com
 
-[about](about.md)
+[SiTECH3Dstudio](about.md)
