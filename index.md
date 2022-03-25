@@ -8,5 +8,7 @@ Syntax highlighted code block
 ## オーディオとメモリレイテンシの関係性
 ### 低遅延は世の中を救う
 
-to be 
+---
+
+mailto: kzakgt@gmail.com
 
