@@ -19,3 +19,5 @@ mailto:kzakgt@gmail.com
 [SiTECH3Dstudio](about.md)
 
 [Ongoing_project](in_progress1.md)
+
+[ZoningAI](zoningai.md)
